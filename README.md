@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Carlos Mingrone
+- 🌱 Soy estudiante de la tecnicatura en programacion
